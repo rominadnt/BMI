@@ -16,4 +16,3 @@ else:
     status = "chagh"  
 
 print(status)      
-print('add new codes to commit')
